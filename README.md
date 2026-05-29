@@ -6,7 +6,6 @@ I’m a Full-Stack JavaScript Developer with experience building responsive and 
 
 I enjoy turning ideas into clean, functional, and user-focused applications with a strong emphasis on performance and maintainable code.
 
-
 ### 💻 Tech Stack
 ⚛️ React / 🅰️ Angular
 🟢 Node.js / 🚂 Express
