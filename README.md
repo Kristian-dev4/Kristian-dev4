@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**Kristian-dev4/Kristian-dev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack JavaScript Developer | Open to Opportunities
 
-Here are some ideas to get you started:
+I’m a Full-Stack JavaScript Developer with experience building responsive and scalable web applications using modern technologies like React, Angular, Node.js, and Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into clean, functional, and user-focused applications with a strong emphasis on performance and maintainable code.
+
+
+### 💻 Tech Stack
+⚛️ React / 🅰️ Angular
+🟢 Node.js / 🚂 Express
+🔗 RESTful APIs
+🍃 MongoDB
+🐳 Docker | ☁️ Azure | ⚙️ Terraform
+🐙 Git & GitHub
+
+### 📌 What I’m Looking For
+💼 Open to internship / junior developer roles / freelance opportunities
+🌍 Remote opportunities
+🚀 Roles focused on frontend or full-stack development
+
+### 📚 Upcoming Focus (Starting Soon)
+🐍 Python programming
+🧠 Computer Science fundamentals (DSA, algorithms)
+🔍 Problem-solving & coding practice
+🛠️ Building small backend + Python projects
+
+### 🎯 Career Direction
+I’m aiming to grow into a strong software engineer with a deeper understanding of core computer science principles, not just frameworks.
+
+### 📫 Let’s Connect
+I’m open to opportunities where I can contribute, learn, and grow as a developer.
