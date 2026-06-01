@@ -7,23 +7,23 @@ I’m a Full-Stack JavaScript Developer with experience building responsive and 
 I enjoy turning ideas into clean, functional, and user-focused applications with a strong emphasis on performance and maintainable code.
 
 ### 💻 Tech Stack
-⚛️ React / 🅰️ Angular
-🟢 Node.js / 🚂 Express
-🔗 RESTful APIs
-🍃 MongoDB
-🐳 Docker | ☁️ Azure | ⚙️ Terraform
-🐙 Git & GitHub
+- ⚛️ React / 🅰️ Angular
+- 🟢 Node.js / 🚂 Express
+- 🔗 RESTful APIs
+- 🍃 MongoDB
+- 🐳 Docker | ☁️ Azure | ⚙️ Terraform
+- 🐙 Git & GitHub
 
 ### 📌 What I’m Looking For
-💼 Open to internship / junior developer roles / freelance opportunities
-🌍 Remote opportunities
-🚀 Roles focused on frontend or full-stack development
+- 💼 Open to internship / junior developer roles / freelance opportunities
+- 🌍 Remote opportunities
+- 🚀 Roles focused on frontend or full-stack development
 
 ### 📚 Upcoming Focus (Starting Soon)
-🐍 Python programming
-🧠 Computer Science fundamentals (DSA, algorithms)
-🔍 Problem-solving & coding practice
-🛠️ Building small backend + Python projects
+- 🐍 Python programming
+- 🧠 Computer Science fundamentals (DSA, algorithms)
+- 🔍 Problem-solving & coding practice
+- 🛠️ Building small backend + Python projects
 
 ### 🎯 Career Direction
 I’m aiming to grow into a strong software engineer with a deeper understanding of core computer science principles, not just frameworks.
