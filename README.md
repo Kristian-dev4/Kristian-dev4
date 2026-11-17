@@ -9,8 +9,10 @@ I enjoy turning ideas into clean, functional, and user-focused applications with
 ### 💻 Tech Stack
 - ⚛️ React / 🅰️ Angular
 - 🟢 Node.js / 🚂 Express
+- ⚗️🐍 Flask
 - 🔗 RESTful APIs
 - 🍃 MongoDB
+- 🛢️ SQLite
 - 🐳 Docker | ☁️ Azure | ⚙️ Terraform
 - 🐙 Git & GitHub
 
@@ -20,7 +22,6 @@ I enjoy turning ideas into clean, functional, and user-focused applications with
 - 🚀 Roles focused on frontend or full-stack development
 
 ### 📚 Upcoming Focus (Starting Soon)
-- 🐍 Python programming
 - 🧠 Computer Science fundamentals (DSA, algorithms)
 - 🔍 Problem-solving & coding practice
 - 🛠️ Building small backend + Python projects
